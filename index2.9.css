@@ -1,0 +1,7 @@
+main {
+    width: 600px;
+    background-color: blue;
+    color: white;
+    overflow: auto;
+    margin: auto;
+}

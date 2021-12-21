@@ -1,0 +1,35 @@
+.main_bl {
+    background-color: aqua;
+    border: 1px solid green;
+}
+  
+.text {
+    background-color: darkgray;
+}
+  
+.list {
+    background-color: bisque;
+}
+  
+@media (min-width: 701px) {
+    .text {
+        margin-left: 505px;
+        margin-right: 5px;
+    }
+}
+  
+.list {
+    float: left;
+    width: 500px;
+}
+
+@media (max-width: 700px) {
+    .list {
+        width: 120px;
+    }
+  
+    .text {
+      width: 360px;
+        clear: both;
+    }
+}

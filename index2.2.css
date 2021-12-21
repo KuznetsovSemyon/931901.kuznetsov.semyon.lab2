@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+  
+main {
+    line-height: 25px;
+}
+
+.left_col {
+    background-color: #c8fc98;
+    float: left;
+    width: 25%;
+}
+  
+.right_col {
+    background-color: #fde95e;
+    float: right;
+    width: 200px;
+}
+
+header {
+    background-color: #eaeaea;
+    overflow: hidden;
+    padding-bottom: 30px;
+}
+
+footer {
+    padding: 5px;
+    background-color: black;
+    text-align: center;
+    clear: both;
+}
+
+a {
+    color: #fde95e;
+}
+
+i {
+    color: red;
+}

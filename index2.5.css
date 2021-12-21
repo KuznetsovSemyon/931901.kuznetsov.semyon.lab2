@@ -1,0 +1,23 @@
+main {
+    line-height: 25px;
+}
+
+.top,
+.bottom {
+    line-height: normal;
+    color: white;
+    overflow: auto;
+    margin: auto;
+    width: 530px;
+}
+
+.top {
+    background-color: forestgreen;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bottom {
+    background-color: blue;
+    padding: 40px;
+}

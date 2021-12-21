@@ -1,0 +1,18 @@
+main {
+    line-height: 25px;
+}
+
+.block, .border {
+    overflow: auto;
+    margin: auto;
+    width: 530px;
+    line-height: normal;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.border {
+    border: solid 10px blue;
+    width: 470px;
+    padding: 30px;
+}

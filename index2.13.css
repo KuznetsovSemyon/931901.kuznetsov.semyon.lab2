@@ -1,0 +1,20 @@
+.main_bl {
+    background-color: aqua;
+    border: 1px solid green;
+}
+
+.list {
+    background-color: bisque;
+    float: left;
+    width: 30%;
+}
+
+.text {
+    background-color: darkgray;
+    margin-left: 30%;
+}
+
+img {
+    float: right;
+    width: 50%;
+}
